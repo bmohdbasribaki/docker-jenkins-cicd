@@ -13,7 +13,7 @@
 			<configuration>
 				<archive>
 					<manifest>
-						<mainClass>/docker-jenkins-cicd/src/main/java/index</mainClass>
+						<mainClass>/docker-jenkins-cicd/src/main/java/index.java</mainClass>
 					</manifest>
 				</archive>
 			</configuration>

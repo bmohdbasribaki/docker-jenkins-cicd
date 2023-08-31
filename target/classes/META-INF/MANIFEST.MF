@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Built-By: basribaki
 Build-Jdk: 17.0.7
-Main-Class: /docker-jenkins-cicd/src/main/java/index
+Main-Class: /docker-jenkins-cicd/src/main/java/index.java
 Created-By: Maven Integration for Eclipse
 
